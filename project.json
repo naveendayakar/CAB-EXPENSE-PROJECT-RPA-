@@ -1,0 +1,37 @@
+{
+  "name": "Test1",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Connector.Salesforce.Activities": "[1.0.7]",
+    "Connector.Twitter.Activities": "[1.0.3]",
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
+    "OutlookActivities": "[1.0.26]",
+    "UiPath.Cognitive.Activities": "[2.0.6716.19435]",
+    "UiPath.UIAutomation.Activities": "[18.3.6864.20582]",
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
+    "UiPath.Database.Activities": "[1.1.6660.26865]",
+    "UiPath.Excel.Activities": "[2.3.6682.26635]",
+    "UiPath.FTP.Activities": "[1.0.6710.16240]",
+    "UiPath.IntelligentOCR.Activities": "[1.0.6725.18428]",
+    "UiPath.Mail.Activities": "[1.1.6562.21018]",
+    "UiPath.Python.Activities": "[1.0.6716.23055]",
+    "UiPath.System.Activities": "[18.3.6864.20561]",
+    "UiPath.PDF.Activities": "[1.2.6863.34697]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.2",
+  "projectVersion": "1.0.6785.25786",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  }
+}
